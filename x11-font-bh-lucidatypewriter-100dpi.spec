@@ -5,7 +5,8 @@ Summary: Xorg X11 font bh-lucidatypewriter-100dpi
 Group: Development/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/font/font-bh-lucidatypewriter-100dpi-%{version}.tar.bz2
-License: CHECK
+# See #38627 for licensing
+License: MIT
 BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
 BuildRequires: x11-font-util >= 1.0.0
