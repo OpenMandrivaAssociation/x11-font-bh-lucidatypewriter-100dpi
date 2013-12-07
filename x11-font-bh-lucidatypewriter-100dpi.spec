@@ -1,6 +1,6 @@
 Name: x11-font-bh-lucidatypewriter-100dpi
 Version: 1.0.3
-Release: 8
+Release: 9
 Summary: Xorg X11 font bh-lucidatypewriter-100dpi
 Group: Development/X11
 URL: http://xorg.freedesktop.org
